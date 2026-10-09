@@ -1,0 +1,14 @@
+/data/
+/models/
+/outputs/
+/target/
+/project/target/
+/project/project/
+/.bloop/
+/.bsp/
+/.metals/
+/.idea/
+/.vscode/
+*.class
+/artifacts/
+/.atl/
